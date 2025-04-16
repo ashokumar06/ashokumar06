@@ -16,7 +16,7 @@ src="/ASHOK/home2.gif">
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Ashok-Prajapati2/)**
 
-- 💼 Check out my **[Portfolio](https://ashok-prajapati2.github.io/Portfolio/)**.
+- 💼 Check out my **[Portfolio](https://ashokumar.in/)**.
 
 - 💞️ I’m looking to collaborate on different projects on website development <b> Django , Flask</b> .
 
