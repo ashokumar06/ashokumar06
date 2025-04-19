@@ -33,9 +33,6 @@ src="/ASHOK/home2.gif">
 
 ## 💻 Languages and Tools ⚡️
 
-<details>
-  <summary><strong>🧠 Data Science & Machine Learning</strong></summary>
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -48,22 +45,13 @@ src="/ASHOK/home2.gif">
   ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=flat&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B6E?style=flat&logo=streamlit&logoColor=white)
 
-</details>
 
-<details>
-  <summary><strong>💻 Programming & Scripting</strong></summary>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🧱 Web Development</strong></summary>
-
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -72,71 +60,31 @@ src="/ASHOK/home2.gif">
   ![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🛢️ Database & Storage</strong></summary>
-
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🔧 DevOps & Deployment</strong></summary>
-
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
   ![Gunicorn](https://img.shields.io/badge/Gunicorn-3993D2?style=flat&logo=gunicorn&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>☁️ Cloud & Hosting</strong></summary>
-
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-2C2F38?style=flat&logo=render&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🧪 IDE & Tools</strong></summary>
-
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🧠 Mathematics for ML</strong></summary>
-
   ![Math](https://img.shields.io/badge/Mathematics-000000?style=flat&logo=math&logoColor=white)
   ![Optimization](https://img.shields.io/badge/Optimization-009C2F?style=flat&logo=optimizely&logoColor=white)
-
-</details>
-
-<details>
-  <summary><strong>🌟 Feature Plans (Learning / Building Zone)</strong></summary>
-
   ![Deep Learning](https://img.shields.io/badge/Deep_Learning-005C5C?style=flat&logo=deeplearning&logoColor=white)
   ![Generative AI](https://img.shields.io/badge/Generative_AI-DC4D37?style=flat&logo=artstation&logoColor=white)
   ![MLOps](https://img.shields.io/badge/MLOps-2A7A8C?style=flat&logo=git&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/CI%2FCD-2D3C47?style=flat&logo=gitlab&logoColor=white)
   ![AWS Deep](https://img.shields.io/badge/AWS_Deep-2A9FBC?style=flat&logo=amazon-aws&logoColor=white)
-
-</details>
-
-
 <br>
 
 ## 🌐 Socials:
