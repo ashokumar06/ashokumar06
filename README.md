@@ -83,6 +83,8 @@ src="/ASHOK/home2.gif">
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
   ![Math](https://img.shields.io/badge/Mathematics-000000?style=flat&logo=math&logoColor=white)
   ![Optimization](https://img.shields.io/badge/Optimization-009C2F?style=flat&logo=optimizely&logoColor=white)
+
+  
   ![Deep Learning](https://img.shields.io/badge/Deep_Learning-005C5C?style=flat&logo=deeplearning&logoColor=white)
   ![Generative AI](https://img.shields.io/badge/Generative_AI-DC4D37?style=flat&logo=artstation&logoColor=white)
   ![MLOps](https://img.shields.io/badge/MLOps-2A7A8C?style=flat&logo=git&logoColor=white)
