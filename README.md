@@ -46,7 +46,6 @@ src="/ASHOK/home2.gif">
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B6E?style=flat&logo=streamlit&logoColor=white)
 
 
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -58,6 +57,8 @@ src="/ASHOK/home2.gif">
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white)
+
+  
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -70,6 +71,8 @@ src="/ASHOK/home2.gif">
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
   ![Gunicorn](https://img.shields.io/badge/Gunicorn-3993D2?style=flat&logo=gunicorn&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+  
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-2C2F38?style=flat&logo=render&logoColor=white)
