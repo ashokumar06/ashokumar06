@@ -14,7 +14,7 @@ src="/ASHOK/home2.gif">
 
 - 🌱 Pursuing **Btech**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Ashok-Prajapati2/)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ashokumar06/)**
 
 - 💼 Check out my **[Portfolio](https://ashokumar.in/)**.
 
@@ -99,11 +99,11 @@ src="/ASHOK/home2.gif">
 [![Instagram Badge](https://img.shields.io/badge/-Ashok-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashok__prajapat_i)
 <br>
 ## GSSOC(24) Badges 🪶:
-<img src="https://github.com/Ashok-Prajapati2/Ashok-Prajapati2/blob/main/ASHOK/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-04.png" width="85px" height="85px" />
+<img src="https://github.com/ashokumar06//ashokumar06/blob/main/ASHOK/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-04.png" width="85px" height="85px" />
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ashok-Prajapati2&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashokumar06&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 <br>
 <details>
 <summary>
@@ -113,23 +113,23 @@ src="/ASHOK/home2.gif">
 
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=Ashok-Prajapati21&abbreviated=true) <br/>
-<a href="https://github.com/Ashok-Prajapati2">
-![](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashok-Prajapati2&theme=blue-green&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashok-Prajapati2&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashok-Prajapati2&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashok-Prajapati2&theme=blue_green&utcOffset=8)
-![](https://github.com/Ashok-Prajapati2?tab=achievements&achievement=pull-shark)
+![](https://komarev.com/ghpvc/?username=ashokumar06&abbreviated=true) <br/>
+<a href="https://github.com/ashokumar06/">
+![](https://github-readme-stats.vercel.app/api?username=ashokumar06&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokumar06&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashokumar06&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokumar06&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokumar06&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokumar06&theme=blue_green&utcOffset=8)
+![](https://github.com/ashokumar06?tab=achievements&achievement=pull-shark)
 <br/>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Ashok-Prajapati2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ashokumar06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Sponsor
-[![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/Ashok-Prajapati2) <br/>
+[![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/ashokumar06) <br/>
 
 <h1 align="center">✨ Fork to create your masterpiece, and star ⭐ if it inspires you. Let's build something extraordinary together! 😉 </h1>
 </details>
